@@ -1,0 +1,127 @@
+{
+
+	margin: 0;
+	padding: 5;
+
+	}
+
+header
+{
+	background-color: #ffffff;
+	
+}
+
+.MiamiGrill
+{
+	background: rgb(0, 0, 0, 0);
+	height: 100px;
+
+}
+
+.MiamiGrill{
+	margin: 1px 10px;
+	height: 80px;
+}
+
+.Hamburger {
+	float: right;
+	list-style: none;
+	margin: 15px;
+}
+.Hamburger li{
+	display: inline-block;
+	margin: 10px 5px;
+
+}
+.Hamburger li a{
+	text-decoration: none;
+	color: #df078c;
+	padding: 2px 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+	
+
+}
+.join{
+	position: relative;
+	text-align: center;
+	font-family: sans-serif;
+	color: #ffffff;
+	top: 100px;
+}	
+.join h1{
+	font-size: 100px;
+	margin: 55px;
+
+}	
+.join h2{
+	font-size: 20px;
+	margin: 25px;
+}
+	
+.join h3{
+	font-size: 30px;
+	margin: 25px;
+}
+
+.btn{
+	font-size: 18px;
+	letter-spacing: 2px;
+	margin: 5px;
+	padding: 7px 10px;
+	text-decoration: none;
+	border: 1px solid #ffffff;
+
+}	
+
+.btn1{
+	background: #ffffff;
+	color: #000000;
+}
+
+.btn2{
+	color: #ffffff;
+	
+}
+
+body{
+	padding:0;
+	margin: 0;
+	background-color: #ffffff;
+}
+
+.mother{
+	width: 1000px;
+	margin: 0 auto;
+	height: 600px;
+	background-color: #ebebeb;
+
+}
+
+a{
+	color: #ff69b4;
+}
+
+.mother a{
+	color:red;
+	font-size: 15pt;
+
+}.mother p a {
+
+}
+.fries{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.fries h1{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    text-align: center
+}
+
