@@ -35,7 +35,7 @@ header
 }
 .Hamburger li a{
 	text-decoration: none;
-	color: #df078c;
+	color: #451400;
 	padding: 2px 8px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
@@ -120,8 +120,10 @@ a{
 .fries h1{
 	width: 1000px;
 	margin: 0 auto;
+	color: #451400;
 	font-family: Helvetica, Arial, sans-serif;
     font-size: 40px;
     text-align: center
+
 }
 
