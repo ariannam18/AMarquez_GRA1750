@@ -1,129 +1,299 @@
 {
 
+
+
+
 	margin: 0;
+
 	padding: 5;
+
+
+
 
 	}
 
-header
+
+
+
+Chipotle
+
 {
-	background-color: #ffffff;
-	
-}
-
-.MiamiGrill
-{
-	background: rgb(0, 0, 0, 0);
-	height: 100px;
+	height: 60px;
 
 }
 
-.MiamiGrill{
-	margin: 1px 10px;
-	height: 80px;
-}
 
-.Hamburger {
-	float: right;
-	list-style: none;
-	margin: 15px;
-}
-.Hamburger li{
-	display: inline-block;
-	margin: 10px 5px;
-
-}
-.Hamburger li a{
-	text-decoration: none;
-	color: #451400;
-	padding: 2px 8px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	letter-spacing: 1px;
-	
-
-}
 .join{
+
 	position: relative;
+
 	text-align: center;
+
 	font-family: sans-serif;
+
 	color: #ffffff;
+
 	top: 100px;
+
 }	
+
 .join h1{
+
 	font-size: 100px;
+
 	margin: 55px;
 
+
+
+
 }	
+
 .join h2{
+
 	font-size: 20px;
+
 	margin: 25px;
+
 }
+
 	
+
 .join h3{
+
 	font-size: 30px;
+
 	margin: 25px;
+
 }
+
+
+
 
 .btn{
+
 	font-size: 18px;
+
 	letter-spacing: 2px;
+
 	margin: 5px;
+
 	padding: 7px 10px;
+
 	text-decoration: none;
+
 	border: 1px solid #ffffff;
+
+
+
 
 }	
 
-.btn1{
-	background: #ffffff;
-	color: #000000;
+
+
+
+
+
+body{
+
+	padding:0;
+
+	margin: 0;
+
+	background-color: #ffffff;
+
 }
 
-.btn2{
-	color: #ffffff;
+
+
+
+.mother{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	height: 600px;
+
+}
+
+	
 	
 }
 
-body{
-	padding:0;
-	margin: 0;
-	background-color: #ffffff;
-}
-
-.mother{
-	width: 1000px;
-	margin: 0 auto;
-	height: 600px;
-	background-color: #ebebeb;
-
-}
-
-a{
-	color: #ff69b4;
-}
 
 .mother a{
+
 	color:red;
+
 	font-size: 15pt;
+
+
+
 
 }.mother p a {
 
-}
-.fries{
-	width: 1000px;
-	margin: 0 auto;
-	font-family: Helvetica, Arial, sans-serif;
-    font-size: 12px;
+
+
+
 }
 
-.fries h1{
+.Rice{
+
 	width: 1000px;
+
 	margin: 0 auto;
-	color: #451400;
+
 	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+}
+
+
+
+
+.Rice h1{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
     font-size: 40px;
+
     text-align: center
 
+
 }
 
+
+.Rice h2{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #ffffff;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: center
+
+
+}
+
+.Rice h3{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: center
+
+
+}
+
+.mother h4{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: left
+
+
+}
+
+.mother h1{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: center
+
+
+}
+
+.Rice p{
+
+	width: 1000px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: justify;
+
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rebeccapurple;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+
+}	
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+
+}	
+	
+	
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    float: right;
+    padding: 14px;
+    text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
