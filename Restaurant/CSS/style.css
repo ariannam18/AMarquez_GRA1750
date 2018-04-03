@@ -114,13 +114,22 @@ body{
 
 	height: 600px;
 
-}
 
+<<<<<<< HEAD
 	
 	
 }
 
 
+=======
+
+
+
+}
+
+
+
+>>>>>>> 6c7d2d8eb153b0dd1ee374eaafb38f3ed13ef773
 .mother a{
 
 	color:red;
@@ -147,6 +156,7 @@ body{
 
     font-size: 12px;
 
+<<<<<<< HEAD
 }
 
 
@@ -188,6 +198,14 @@ body{
 }
 
 .Rice h3{
+=======
+}
+
+
+
+
+.Rice h1{
+>>>>>>> 6c7d2d8eb153b0dd1ee374eaafb38f3ed13ef773
 
 	width: 1000px;
 
@@ -204,6 +222,7 @@ body{
 
 }
 
+<<<<<<< HEAD
 .mother h4{
 
 	width: 1000px;
@@ -222,12 +241,20 @@ body{
 }
 
 .mother h1{
+=======
+
+.Rice h2{
+>>>>>>> 6c7d2d8eb153b0dd1ee374eaafb38f3ed13ef773
 
 	width: 1000px;
 
 	margin: 0 auto;
 
+<<<<<<< HEAD
 	color: #451400;
+=======
+	color: #ffffff;
+>>>>>>> 6c7d2d8eb153b0dd1ee374eaafb38f3ed13ef773
 
 	font-family: Helvetica, Arial, sans-serif;
 
@@ -254,6 +281,7 @@ body{
 
 }
 
+<<<<<<< HEAD
 a:link {
     color: green;
     background-color: transparent;
@@ -279,6 +307,9 @@ a:hover {
 }	
 	
 	
+=======
+
+>>>>>>> 6c7d2d8eb153b0dd1ee374eaafb38f3ed13ef773
 div.scrollmenu {
     background-color: #333;
     overflow: auto;
